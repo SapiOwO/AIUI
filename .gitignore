@@ -22,8 +22,11 @@
 
 # misc
 .DS_Store
+Thumbs.db
 *.pem
 *.log
+*.tmp
+*.temp
 
 # debug
 npm-debug.log*
@@ -43,8 +46,14 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
+
+
 
 # Editors
 .vscode/
+.vscode-test/
 .idea/
+
+# Datasets
+dataset.csv
+fitness-dataset.jsonl
