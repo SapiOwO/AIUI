@@ -444,7 +444,7 @@ export default function UserSettings({ isOpen, onClose, onUpdate }: UserSettings
                                                                 <Shield className="w-4 h-4 text-purple-400" />
                                                             </div>
                                                         )}
-                                                        <div className="p-1.5 bg-blue-500/20 rounded" title="FitBuddy User">
+                                                        <div className="p-1.5 bg-blue-500/20 rounded" title="AIUI User">
                                                             <Sparkles className="w-4 h-4 text-blue-400" />
                                                         </div>
                                                     </div>

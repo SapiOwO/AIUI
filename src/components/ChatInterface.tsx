@@ -218,7 +218,7 @@ const ChatInterface = ({
                                                         ) : (
                                                             <>
                                                                 <Bot className="w-3 h-3" />
-                                                                {displayedModel || 'FitBuddy'}
+                                                                {displayedModel || 'AIUI Assistant'}
                                                             </>
                                                         )}
                                                     </span>
